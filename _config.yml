@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+title: PozéMed
+description: 
+github:
+  repository.name: PozéMed
+  repository_url: https://pozemed.github.io
+  owner.name: PozéMed
+  owner_url: https://pozemed.github.io
+  is_project_page: true
